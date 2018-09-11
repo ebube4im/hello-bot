@@ -16,7 +16,7 @@ $sendMessage = new SendMessage($input);
 
  
 if(!empty($receivedMessage->textMessage)) {   
-     $sendMessage->text("hello coder");
+     $sendMessage->text("Welcome to 4immobile Services, We will be with you shortly");
     
 }
  
